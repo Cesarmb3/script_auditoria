@@ -1,0 +1,4 @@
+{
+    "cve_api": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "cpe_api": "https://services.nvd.nist.gov/rest/json/cpes/2.0"
+}
